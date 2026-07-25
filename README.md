@@ -34,4 +34,4 @@ The stakeholder bank should benchmark its own efficiency ratio against this peer
 - `powerbi/` — dashboard screenshots
 
 ## Dashboard Preview
-See `BankDashboard.png` for a full view of the interactive dashboard.
+![Bank Peer Benchmarking Dashboard](BankDashboard.png)
